@@ -1,4 +1,4 @@
-# cs5293sp23-project3
+# Text Analytics Project
 Template repo for Project 3
 
 `smartcity/`  - contains the pdf applications \
@@ -17,14 +17,6 @@ To run the program you simple need to write the following script on the command 
 pipenv run python3.py 'path to the pdf' 'summary' 'keywords'
 
 Here, the path is the require argument whereas the other two arguments are optional. the predicted output is appended into the smartcity_predict.tsv file.
-
-Demo video of how to run the project3.py file.
-
-
-Video Link
-https://github.com/Rohan19072/project3/assets/84516953/977b4951-f208-44a0-99b6-a8a8b7e12d3c
-
-
 
 
 Functions used in the project3.py file:
